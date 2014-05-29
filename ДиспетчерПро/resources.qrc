@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>calculator-24.png</file>
+        <file>user-24.png</file>
+        <file>je_photo.jpeg</file>
+        <file>icon-warning-redsvg.png</file>
+        <file>icon-ok.png</file>
+        <file>green_lock.png</file>
+        <file>red_lock.png</file>
+        <file>green_connect.png</file>
+        <file>red_connect.png</file>
+    </qresource>
+</RCC>
